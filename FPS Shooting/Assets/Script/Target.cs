@@ -20,3 +20,7 @@ public class Target : MonoBehaviour
         Destroy(gameObject);
     }   
 }
+
+
+// Name - ANKUR PRATAP SINGH
+// contact - 9599530334
